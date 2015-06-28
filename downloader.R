@@ -14,7 +14,7 @@ lapply(list.of.packages, library, character.only = T)
 
 
 ## Downloaded slideshare presentation
-url <- "http://www.slideshare.net/0xdata/2015-02-19stratatalk"
+url <- "http://www.slideshare.net/akannshat/data-mining-15329899"
 
 ## Creating temporary folder for downloading images
 dir_string <- paste0(Sys.Date(),"_",sample(1:1000,1))
